@@ -8,14 +8,12 @@
 - **技术**：Next.js, FastAPI, 智谱 GLM-4-Flash, Chroma 向量数据库
 - **亮点**：实现 PDF 文档上传、文本分块、向量检索、流式回答（SSE），支持引用原文来源
 - **部署**：[在线演示链接](https://rag-knowledge-bot.vercel.app/)（Vercel + Railway）
-          - [在线演示链接地址2](https://rag-knowledge-bot-bkkgmolp.edgeone.cool/)
-          - [模拟嵌入客服页面](https://rag-knowledge-bot-bkkgmolp.edgeone.cool/embed-demo/)
+          - [模拟嵌入客服页面](https://rag-knowledge-bot.vercel.app/embed-demo/)
 
 ### 🤖 [多智能体任务规划看板](https://github.com/Fan-tasticDev/agent-kanban.git)
 - **技术**：FastAPI + SSE, 智谱 GLM-4-Flash, Function Calling, Tavily 搜索工具
 - **亮点**：规划 Agent 与风控 Agent 协作，流式展示思考过程，Agent 可自主调用搜索工具获取信息
 - **部署**：[在线演示链接](https://agent-kanban-ten.vercel.app/)
-          - [在线演示链接地址2](https://agent-kanban-d5okaafz.edgeone.cool/)
 
 ## 🛠 技术栈
 - **前端**：React, TypeScript, Next.js, Tailwind CSS
